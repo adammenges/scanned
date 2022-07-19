@@ -1,1 +1,1 @@
-convert -density 150 input.pdf -colorspace gray +noise Gaussian -rotate 0.5 -depth 2 output.pdf
+convert -density 150 input.pdf -colorspace gray +noise Gaussian -rotate 0.5 -depth 2 scanned.pdf
